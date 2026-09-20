@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @preeett
-- 🌱 I’m currently in 12th grade studying PCME (haha ik lol)
-- 📫 How to reach me preetamjn110@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Your brain is constantly eating itself.
+- Hi, I’m preetam
+I’m currently in my 2nd year of engineering in electronics and communication
+How to reach me preetamjn110@gmail.com
+
 
 <!---
 preeett/preeett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
